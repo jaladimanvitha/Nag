@@ -1,0 +1,49 @@
+Spring Framework-End to end frame work(enterprise level applications)
+Prerequisites:
+corejava,
+J2EE(Servlet and JSP)
+Types of Applications
+-------------------------------
+Standalaone application
+Web applications
+Mobile applications
+Enterprise Application(ERP)
+
+Spring Framework
+---------------------------
+(Rod Johnson) replace EJB(Tightly coupled)(Enterprise Java Bean(Complicated Freamework))
+SF-Loose coupling(Integration)&Less Code
+
+
+Common configuration file(.XML)
+
+Dependency Injection:
+-------------------------------
+              (or)
+Inversion Of control:
+----------------------------
+
+SpringFramework achieves IoC by Ioc Container-
+IoC container: Injeting instance into dependent classes(Configuration file) 
+Spring Core:
+
+
+Spring MVC(MVC based Web Application)
+Spring Mobile
+Spring Cloud
+Data
+ORM
+Batch
+Integration
+AOP
+Boot
+
+
+Spring Library:maven
+setup maven
+IDE- Eclipse
+Spring tool suite+ sping plugins
+
+
+
+
